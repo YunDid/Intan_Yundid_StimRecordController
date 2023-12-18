@@ -1,2 +1,0 @@
-# Intan_Yundid_StimRecordController
-Intan_Yundid_StimRecordController.
